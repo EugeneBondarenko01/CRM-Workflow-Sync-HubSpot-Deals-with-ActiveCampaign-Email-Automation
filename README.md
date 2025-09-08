@@ -1,1 +1,2 @@
 I built a Make scenario that syncs data between HubSpot and ActiveCampaign. When a deal is created or updated in HubSpot, the contact is automatically created or updated in ActiveCampaign with custom fields and tags. This automation supports free HubSpot limits and is designed for future follow-up email sequences in ActiveCampaign.
+https://www.upwork.com/freelancers/~0108dfb61b408b16b2?p=1952729197154971648
